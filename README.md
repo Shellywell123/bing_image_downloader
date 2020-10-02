@@ -13,9 +13,9 @@ Please do not download or use any image that violates its copyright terms.
 ### Installation <br />
 
 ```bash
-git clone https://github.com/gurugaurav/bing_image_downloader
-cd bing_image_downloader
-python3 setup.py install
+foo@bar$ git clone https://github.com/gurugaurav/bing_image_downloader
+foo@bar$ cd bing_image_downloader
+foo@bar$ python3 setup.py install
 ```
 
 ### Usage <br />
